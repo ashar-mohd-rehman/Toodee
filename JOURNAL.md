@@ -1,6 +1,13 @@
+**title: Toodee**
 
-# 2026-06-02: #1 Research Phase
-**Total time spent: 6 hours**
+**author: Ashar**
+
+**description: A diy cartesian style bed slinger 3d printer**
+
+**created at: 2026-06-02**
+
+
+# June 2: # 1 Research Phase
 
 So my journey exploring 3d printers started when I was 10, delusional me in 4th grade would do anything for an ender 3. This curiousness went on a pause for around 3 years until when I discovered Makerworld and their programme giving free printer sadly being in India I coudn't participate. But this time my interest did not die out as my School newly installed an Ender 3v3 Plus and I even got access to use it as I was disgustingly educated on the topic more than my fellow classmates ofc. Then I discovered HackClub.
 
@@ -32,8 +39,10 @@ Some fellow slack members I would like to thank
 3) Manan
 4) Aethel Veritas
 
-# 2026-06-08: #2 Toodee is now T1 approved!
-**Total time spent: 3 hours**
+   **Total time spent: 6 hours**
+
+# June 8: # 2 Toodee is now T1 approved!
+
 
 Ok so yeah I decided to pitch my printer for the last time after some extensive research on how we could achieve a sub 20 benchy. We are going to use Input shaping using an accelerometer to cancel out ringing. 
 
@@ -52,4 +61,5 @@ also before installing the plugin I tried to design the frame raw and here's the
 
 Toodee will also have a filament runout sensor. When triggered klipper stops the print
 
+**Total time spent: 3 hours**
 
