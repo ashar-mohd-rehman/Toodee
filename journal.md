@@ -1,6 +1,5 @@
 
 # 2026-06-02: #1 Research Phase
-
 **Total time spent: 6 hours**
 
 So my journey exploring 3d printers started when I was 10, delusional me in 4th grade would do anything for an ender 3. This curiousness went on a pause for around 3 years until when I discovered Makerworld and their programme giving free printer sadly being in India I coudn't participate. But this time my interest did not die out as my School newly installed an Ender 3v3 Plus and I even got access to use it as I was disgustingly educated on the topic more than my fellow classmates ofc. Then I discovered HackClub.
@@ -32,4 +31,20 @@ Some fellow slack members I would like to thank
 2) Anicetus
 3) Manan
 4) Aethel Veritas
+
+# 2026-06-08: #2 Toodee is now T1 approved!
+**Total time spent: 3 hours**
+
+Ok so yeah I decided to pitch my printer for the last time after some extensive research on how we could achieve a sub 20 benchy. We are going to use Input shaping using an accelerometer to cancel out ringing. 
+
+Also since the last journal I have decided that we will design the toolhead system to be modular so that we can add different toolheads like pen plotter CNC etc .
+
+The mainboard wasnt decided in the last journal and therefore I have decided that we will use Btt Skr Pico anfd pair it with a raspi 2 zero w to run klipper
+
+I am still confused with the extruder as to use either ProtoXtruder 2 or Sherpa mini But I am thinking to go with sherpa maybe?
+
+In fusion360 I applied for student account and got approved dang that was fast and Then I found out about Voron Construct (its a plugin to make designing 3d printers easier in Cad softwares) Installing this plugin into fusion was really hard as their wasnt proper documentation on https://github.com/PrintersForAnts/Voron-Construct but after reading on how to do it on autodesk website and some help from google I got it in 
+
+<img width="1844" height="1524" alt="Screenshot 2026-06-08 232909" src="https://github.com/user-attachments/assets/9515de17-2dc4-4923-9dd4-288a5cc29143" />
+
 
