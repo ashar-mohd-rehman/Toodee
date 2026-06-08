@@ -47,4 +47,9 @@ In fusion360 I applied for student account and got approved dang that was fast a
 
 <img width="1844" height="1524" alt="Screenshot 2026-06-08 232909" src="https://github.com/user-attachments/assets/9515de17-2dc4-4923-9dd4-288a5cc29143" />
 
+also before installing the plugin I tried to design the frame raw and here's the attempt 
+<img width="1248" height="1031" alt="Screenshot 2026-05-27 183550" src="https://github.com/user-attachments/assets/0b6520c3-06bc-4d20-bf53-20fee1e78035" />
+
+Toodee will also have a filament runout sensor. When triggered klipper stops the print
+
 
