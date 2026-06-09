@@ -63,3 +63,19 @@ Toodee will also have a filament runout sensor. When triggered klipper stops the
 
 **Total time spent: 3 hours**
 
+# June 9 #3 Spent some time learning surface modelling 
+
+I decided to learn surface modelling as it is one of the main tehcniques to make more organic shapes in fusion360 rather than just some blocky stuff. The turotial I used for  was https://www.youtube.com/embed/hIIT2WPEnuk?si=1GRSSYhLiqUDN2MA
+
+All went smooth only problems I encountered were that I miscounted the points needed to project which made my handle loft super weird. I realised this much later and well that didnt end up good anyways I fixed the sketch object and went back to lofting
+
+<img width="1704" height="960" alt="Screenshot 2026-06-09 220219" src="https://github.com/user-attachments/assets/7f26c0e0-2266-4855-8b7b-7b8268741015" />
+
+and i didnt knew why that yellow part was coming because in video his was grey until I flipped it and mine also looked grey and solid <img width="2559" height="1599" alt="Screenshot 2026-06-09 220026" src="https://github.com/user-attachments/assets/1ec42547-d71c-479f-9708-2750909b7444" />
+
+Anyways I also learnt how to render succesfully instead of taking screenshots 
+<img width="2561" height="974" alt="Spoon render" src="https://github.com/user-attachments/assets/70da0884-d0da-4091-8854-d7e50dab711a" />
+
+**Total time spent: 1 hours**
+
+
