@@ -81,6 +81,7 @@ Anyways I also learnt how to render succesfully instead of taking screenshots
 # June 17: # 4 Started With Cad
 
 So I started to design the actual printer in CAD and dude I swear this process is gonna take forever CAD is so tedious I wanna cry 
+I imported the 2020 extrusions from the plugin and started over instead of using my previous design as the extrusion sketch must not be accurate (I sketched over a image) thats why
 <img width="1170" height="1076" alt="Screenshot 2026-06-17 215740" src="https://github.com/user-attachments/assets/d64335c0-9f26-428c-94f4-df511047d41a" />
 Just importing stuff and moving it around was so time consuming it took me over an hour to get the measurements and alignment right
 
