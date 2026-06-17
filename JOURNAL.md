@@ -78,4 +78,21 @@ Anyways I also learnt how to render succesfully instead of taking screenshots
 
 **Total time spent: 1 hours**
 
+# June 17: # 4 Started With Cad
+
+So I started to design the actual printer in CAD and dude I swear this process is gonna take forever CAD is so tedious I wanna cry 
+<img width="1170" height="1076" alt="Screenshot 2026-06-17 215740" src="https://github.com/user-attachments/assets/d64335c0-9f26-428c-94f4-df511047d41a" />
+Just importing stuff and moving it around was so time consuming it took me over an hour to get the measurements and alignment right
+
+As you can see in the image the z axis will have only 1 Motor and it is going below the printer as later Ill add feets to the printer so it all lines up
+I am still not sure about how we will mount the hotend to the 3d printed toolhead which I am figuring it out now
+
+Also  for the hotend , Ill use 2x 4010 fans for part cooling and 1x 3010 fan for heatsink cooling.
+
+speaking of which my fusion crashed multiple times idk why
+
+**Total time spent: 1.5 hours**
+
+
+
 
